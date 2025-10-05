@@ -11,7 +11,7 @@ After completing the foundational work in *Week 1, this week dives deeper into t
 
 ---
 
-## 🧠 What You’ll Learn This Week
+## 🧠 What I Learned in this Week
 
 Week 2 is organized into *two complementary parts* — one focusing on theory and the other on practical simulation.
 
