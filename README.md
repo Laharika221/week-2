@@ -13,11 +13,6 @@ After completing the foundational work in *Week 1, this week dives deeper into t
 
 ---
 
-## 📂 Repository Structure
-Week-2/ │── README.md │ │── Part-1_Theory/ │   ├── README.md │   ├── Screenshots/ │ │── Part-2_Labs/ │   ├── README.md │   ├── Screenshots/
-
----
-
 ## 🧠 What You’ll Learn This Week
 
 Week 2 is organized into *two complementary parts* — one focusing on theory and the other on practical simulation.
