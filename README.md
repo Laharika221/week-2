@@ -16,7 +16,7 @@ After completing the foundational work in *Week 1, this week dives deeper into t
 Week 2 is organized into *two complementary parts* — one focusing on theory and the other on practical simulation.
 
 ### 🧩 *Part 1 – Conceptual Understanding*
-You’ll explore the foundation of *System-on-Chip design* through:
+I explored the foundation of *System-on-Chip design* through:
 - What an *SoC* is and why it matters  
 - The *main building blocks* of an SoC:
   - *CPU* – Core processing unit  
@@ -29,7 +29,7 @@ You’ll explore the foundation of *System-on-Chip design* through:
 ---
 
 ### 💻 *Part 2 – Practical Labs*
-You’ll apply theoretical knowledge through hands-on experiments:
+I applied theoretical knowledge through hands-on experiments:
 - *Simulate the Baby SoC* using *Icarus Verilog (iverilog)*  
 - *Visualize results* and timing with *GTKWave*  
 - *Analyze SoC behavior* by observing signals and timing diagrams  
@@ -40,7 +40,7 @@ You’ll apply theoretical knowledge through hands-on experiments:
 
 ## 🎯 Objective
 
-By the end of Week 2, you should be able to:
+By the end of Week 2,  i can be able to:
 - Understand *SoC architecture and integration*
 - Identify the purpose and function of each Baby SoC component
 - Practice *functional verification* early in the design flow
