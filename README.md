@@ -1,6 +1,4 @@
 # 🚀 Week 2 – RISC-V SoC Tapeout Journey
-
-*Author:* Divya Darshan  
 *Topic:* Baby SoC Fundamentals & Functional Modeling  
 *Program:* 20-Week RISC-V SoC Design Course by VSD
 
